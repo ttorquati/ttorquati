@@ -3,7 +3,7 @@
 <h1 align="left">Hiho, I'm Thiago Torquati 🤘🏽 </h1>
 
 
-- 🔥 Frontend Developer working @ Picpay
+- 🔥 Frontend Developer @ Picpay
 - 🪡 Currently building a Design System with Web Components & Stencil JS
 - 🔭 Learning a JS framework everyday
 - 🎮 Unity game development enthusiast

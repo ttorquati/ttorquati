@@ -17,7 +17,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=157286)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular&logoColor=E34F26)&nbsp;
-![Web Components](https://img.shields.io/badge/-WebComponents-05122A?style=flat&logo=webcomponents.org)&nbsp;
+![Web Components](https://img.shields.io/badge/-Web%20Components-05122A?style=flat&logo=webcomponents.org)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github)&nbsp;

@@ -4,7 +4,7 @@
 
 
 - 🔥 Frontend Developer @ Picpay
-- 🪡 Currently building a Design System with Web Components & Stencil JS
+- 🌱 Currently building a Design System with Web Components & Stencil JS
 - 🔭 Learning a JS framework everyday
 - 🎮 Unity game development enthusiast
 
@@ -28,13 +28,11 @@
 ## ⚙️ Github Stats
 
 <a href="https://github.com/ttorquati/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ttorquati&count_private=true&show_icons=true&theme=github_dark" width="530em"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ttorquati&count_private=true&show_icons=true&theme=github_dark" height="180em" />
 </a>
 
-<br /><br />
-
 <a href="https://github.com/ttorquati/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttorquati&layout=compact&theme=github_dark" width="530em"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttorquati&layout=compact&theme=github_dark" height="180em" />
 </a>
 
 <br /><br />

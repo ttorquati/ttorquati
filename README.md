@@ -8,7 +8,7 @@
 - 🔭 Learning a JS framework everyday
 - 🎮 Unity game development enthusiast
 
-<br /><br />
+<br />
 
 ## 🛠 Tech Stack
 
@@ -23,18 +23,18 @@
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br /><br />
+<br />
 
 ## ⚙️ Github Stats
 
-<div alingn="center">
+<div align="center">
   <a href="https://github.com/ttorquati">
-    <img src="https://github-readme-stats.vercel.app/api?username=ttorquati&count_private=true&show_icons=true&theme=github_dark" height="180em" style="max-width: 100%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttorquati&layout=compact&theme=github_dark" height="180em" style="max-width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ttorquati&count_private=true&show_icons=true&theme=github_dark" height="172em" style="max-width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttorquati&layout=compact&theme=github_dark" height="172em" style="max-width: 100%;" />
   </a>
 </div>
 
-<br /><br />
+<br />
 
 ## 👽 Social
 

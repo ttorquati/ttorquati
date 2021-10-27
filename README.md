@@ -28,8 +28,8 @@
 ## ⚙️ Github Stats
 
 <a href="https://github.com/ttorquati">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ttorquati&count_private=true&show_icons=true&theme=github_dark" height="176em" style="max-width: 100%;" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttorquati&layout=compact&theme=github_dark" height="176em" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ttorquati&count_private=true&show_icons=true&theme=github_dark" height="180em" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttorquati&layout=compact&theme=github_dark" height="180em" style="max-width: 100%;" />
 </a>
 
 <br /><br />

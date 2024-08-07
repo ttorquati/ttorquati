@@ -3,8 +3,8 @@
 <h1 align="left">Hiho, I'm Thiago Torquati 🤘🏽 </h1>
 
 
-- 🔥 Frontend Developer @ Picpay
-- 🌱 Currently building a Design System with Web Components & Stencil JS
+- 🔥 Frontend Developer @ Mercado Livre
+- 🌱 Currently building a B2B experience using React
 - 🔭 Learning a JS framework everyday
 - 🎮 Unity game development enthusiast
 
